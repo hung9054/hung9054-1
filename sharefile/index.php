@@ -1,6 +1,5 @@
 <?php
 session_start();
-ob_start();
 $content ="timkiemfile";
 if(isset($_GET["content"])){
 	$content = $_GET["content"];
