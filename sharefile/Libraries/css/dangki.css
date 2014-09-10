@@ -1,0 +1,48 @@
+/* CSS Document */
+
+
+	.table_dangki {
+		border:1px solid #CCC;
+		border-radius:5px;
+		margin-top:10px;
+		}
+	.table_dangki div{
+		margin-left:10px;
+		margin-top:5px;
+		margin-right:10px;
+		margin-bottom:5px;
+		}	
+	.table_dangki {
+		font-weight:bold;
+		}	
+	.btdangki {
+		border:0px;
+		background:url(../../Images/dn_dangnhap.gif) no-repeat;
+		height:29px;
+		width:100px;
+		font-weight:bold;
+		font-size:16px;
+		color:#FFF;
+		border-radius:5px;
+		}
+	.dk_hover :hover{
+		cursor:pointer;
+		color:#FF0;
+		}
+	.chu_y{
+		border:1px solid #CCC;
+		padding: 5px;
+		margin-top:10px;
+		border-radius:10px;
+		font-weight:bold;
+		font-size:16px;
+		color:#030;
+		}
+			
+     .iconsocail {
+		 margin-left:20px;
+		 }	
+	  .iconsocail :hover{
+		  cursor:pointer;
+		  }	 	
+			

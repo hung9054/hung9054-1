@@ -45,7 +45,7 @@ if (defined('ENVIRONMENT'))
 			exit('The application environment is not set correctly.');
 	}
 }
-
+/* version 2*/
 /*
  *---------------------------------------------------------------
  * SYSTEM FOLDER NAME
